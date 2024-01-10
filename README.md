@@ -1,0 +1,1 @@
+Conducted a comprehensive credit score prediction capstone project using IBM SPSS Modeler, incorporating both statistical and artificial intelligence algorithms. Evaluated and discussed the performance of each model individually and explored their combined effectiveness. Strengthened skills in data analytics, statistical modeling, and artificial intelligence.
